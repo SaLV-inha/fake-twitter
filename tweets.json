@@ -1,0 +1,15 @@
+[
+    {
+        "tweet_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "content": "el primer tweet",
+        "created_at": "2022-10-25 13:02:30.362765",
+        "updated_at": "2022-10-25 16:02:37.725000+00:00",
+        "by": {
+            "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+            "email": "salva@example.com",
+            "first_name": "luis",
+            "last_name": "salav",
+            "birthdate": "2022-10-25"
+        }
+    }
+]
